@@ -7,6 +7,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+html {
+    scroll-behaviour: smooth;
+}
+
 .contain {
     width: 100%;
     margin: auto;
